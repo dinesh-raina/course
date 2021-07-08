@@ -1,0 +1,30 @@
+.course-list {
+  max-width: 1400px !important;
+}
+
+.checked {
+  color: orange;
+}
+
+.jumbotron {
+  padding: 2rem !important;
+}
+
+#accordion .card {
+  border-radius: 0px;
+}
+
+#accordion a {
+  color: black;
+  font-weight: bold;
+}
+
+.list-unstyled li {
+  margin-top: 5px;
+}
+
+.duration {
+  float: right;
+  font-size: 14px;
+  color: royalblue;
+}
